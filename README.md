@@ -2,6 +2,6 @@
 # Coding The News Homework
 
 ## Course overview:
-1. Learn advanced Python techniques: Typography, Color theory/accessibility, responsive design
+1. Learn advanced HTML/CSS webpage techniques: Typography, Color theory/accessibility, responsive design
 2. Javascript basics: While/forEach loops, DOM, template designs
 3. Javascript intermediate: building interactives, event listeners, basic animation
